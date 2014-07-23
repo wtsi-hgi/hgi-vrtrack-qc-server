@@ -1,0 +1,7 @@
+bindaddr = :3001
+db.scheme = tcp
+db.user = 
+db.pass = 
+db.host = localhost
+db.port = 3306
+db.name = vrtrack
