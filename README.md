@@ -3,7 +3,7 @@ hgi-vrtrack-qc-server
 
 Serves QC data from vrtrack database via http.
 
-Docker automated build available: `docker pull mercury/hgi-vrtrack-qc-server`
+A [docker automated build](https://hub.docker.com/r/mercury/hgi-vrtrack-qc-server/) is available: `docker pull mercury/hgi-vrtrack-qc-server`
 
 Notes
 -----
